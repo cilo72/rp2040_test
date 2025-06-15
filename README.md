@@ -1,1 +1,1 @@
-[Contribution guidelines for this project](docs/csharp/index.html)
+[Contribution guidelines for this project](doc/csharp/index.html)
